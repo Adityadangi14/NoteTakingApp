@@ -37,8 +37,8 @@
 
 - When the user will open app for first time he will see a text  ```"Opps! you don't have any notes" ```, a ```add notes``` button in right-bottom  and a ```delete all``` button in right side of appbar .
 - if user choose to create notes then he will be navigated to text editing area . He can fill  title and note text field then click save note. If He left a field empty by mistake then he will be shown a alert message called ``` You can't left this field empty```.
-- if he want to edit already existing notes then he can tap to edit logo in right-top of his note. He will be navigated to update notes screen. After editing ,he can tap to ``` update Notes``` button in the bottom-centre of screen.
+- if he want to edit already existing notes then he can tap the edit logo in right-top of his note. He will be navigated to update notes screen. After editing ,he can tap to ``` update Notes``` button in the bottom-centre of screen.
 
-## What could be improved in the app
-- I could have used a relational database such as ```sqlite`` for faster read and write.
+## What could be improved in the app`
+- I could have used a relational database such as ```sqlite``` for faster read and write.
 - I could have made only one screen for editing and updating the notes by using optional perameter.
